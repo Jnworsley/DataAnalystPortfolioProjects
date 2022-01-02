@@ -1,2 +1,2 @@
 # DataAnalystPortfolioProjects
-This Repository holds all the code and queries for the Data Analyst Portfolio Projects I create.
+This Repository holds all the t-sql and python code for my Data Analyst Portfolio Projects.
