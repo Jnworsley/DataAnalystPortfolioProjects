@@ -1,6 +1,10 @@
---Covid-19 Deaths & Covid-19 Vaccinations
---Data ranges from Feburary 15,2020 to December 28, 2021
---Source: ourwordindata.org/covid-deaths
+/*
+Covid-19 Deaths & Covid-19 Vaccinations
+Data ranges from Feburary 15,2020 to December 28, 2021
+Source: ourwordindata.org/covid-deaths
+*/
+
+--Skills used: Joins, CTE's, Temp Table, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 --Looking at ALL data from CovidDeaths table
 Select *
